@@ -1,3 +1,4 @@
 users can have profile pictures 
 users can have about section 
 users can send friend requests
+Yes
